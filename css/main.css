@@ -26,6 +26,7 @@
 }
 
 
+
 /*Wrapper*/
 #wrapper{
 	position:relative;
@@ -99,7 +100,7 @@ header.fixed{
     left: 3px;
     position: relative;
     top: -1px;
-}
+}  
 
 .switchedHeader .logo h1 span{
 	color:#d0a068 ;
@@ -707,10 +708,10 @@ nav#mainNav li:hover{
 }
 
 
-.clientSlider li  {
-    text-align:center;
-	color: #444444;
-	margin-right: 90px;
+.clientSlider img  {
+    
+	margin-right: 55px;
+	
 }
 
 .clientSlider li i {
